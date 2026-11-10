@@ -46,7 +46,9 @@ The robot runs a finite state machine (FSM) that combines two behaviors:
 
 ## Demo
 
-<video src="media/vpr_demo_github.mp4" width="100%" controls></video>
+
+https://github.com/user-attachments/assets/1617168d-4c09-4209-9ffa-6db6a6c183ba
+
 
 ## Toolkit
 
