@@ -77,4 +77,4 @@ ros2 launch tortoisebot_bringup autobringup.launch.py use_sim_time:=False explor
 
 With every part checked, we ran our vision pursuit code. The sensors run on the Raspberry Pi, and our node runs on a laptop on the same network, which receives `/image` and `/scan` and publishes `/cmd_vel`. See [architecture.md](architecture.md) for how the pieces connect.
 
-**Video:** coming soon
+**Video:** [watch the full run on the rover](../media/videos/robot/final_video.mp4)
