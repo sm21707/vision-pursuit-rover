@@ -1,6 +1,6 @@
 # Architecture
 
-How the final vision pursuit software is built. The code is in [src/04_hardware/vpr_hardware_code.py](../src/04_hardware/vpr_hardware_code.py). How the camera image is processed is explained in [concepts.md](concepts.md#4-opencv).
+How the final vision pursuit software is built. The code is in [src/04_final_code/vision_pursuit.py](../src/04_final_code/vision_pursuit.py). How the camera image is processed is explained in [concepts.md](concepts.md#4-opencv).
 
 **Contents**
 1. [Overview](#1-overview)

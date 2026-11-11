@@ -145,7 +145,7 @@ ros2 run image_tools cam2image --ros-args \
 ```bash
 source /opt/ros/humble/setup.bash
 ros2 topic list
-python3 src/04_hardware/vpr_hardware_code.py
+python3 src/04_final_code/vision_pursuit.py
 ```
 
 You should see `/image` and `/scan` in the topic list. A window opens showing the camera view with the detected target outlined. Press **Ctrl+C** to stop, and the node sends a zero velocity so the rover halts.
@@ -157,7 +157,7 @@ You should see `/image` and `/scan` in the topic list. A window opens showing th
 | [src/01_python_oops](src/01_python_oops) | Python OOP practice: classes, encapsulation, inheritance, polymorphism |
 | [src/02_turtlesim](src/02_turtlesim) | ROS 2 basics in turtlesim: shapes, boundary avoidance, go-to-goal with PID, following, a state machine |
 | [src/03_simulation](src/03_simulation) | Color detector and obstacle detector tested in Gazebo and RViz2 |
-| [src/04_hardware](src/04_hardware) | The final vision pursuit code that runs on the rover |
+| [src/04_final_code](src/04_final_code) | The final vision pursuit code that runs on the rover |
 | [test](test) | Motor test |
 
 Videos of the turtlesim programs are listed in [media/README.md](media/README.md).
@@ -206,7 +206,7 @@ vision-pursuit-rover/
 │   ├── 01_python_oops/
 │   ├── 02_turtlesim/
 │   ├── 03_simulation/
-│   └── 04_hardware/          # final code
+│   └── 04_final_code/        # the final code
 └── test/
     └── motor_test.py
 ```

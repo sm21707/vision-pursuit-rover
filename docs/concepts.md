@@ -132,4 +132,4 @@ If nothing big enough is found, the error is set to `None`, which tells the stat
 
 **Notes from tuning:** the HSV range has to be tuned with the real camera and real lighting, because values that work in simulation rarely carry over unchanged. Lowering the camera to 320x240 at 10 frames per second keeps the Raspberry Pi responsive.
 
-The final code is in [src/04_hardware/vpr_hardware_code.py](../src/04_hardware/vpr_hardware_code.py), and the earlier simulation version is in [src/03_simulation/color_detector.py](../src/03_simulation/color_detector.py).
+The final code is in [src/04_final_code/vision_pursuit.py](../src/04_final_code/vision_pursuit.py), and the earlier simulation version is in [src/03_simulation/color_detector.py](../src/03_simulation/color_detector.py).
