@@ -141,7 +141,7 @@ vision-pursuit-robot/
 │   ├── 01_python_oops/       # Python OOP practice
 │   ├── 02_turtlesim/         # shapes, boundary, go-to-goal with PID, FSM
 │   ├── 03_simulation/        # color detector and obstacle detector
-│   └── vision_pursuit/       # final robot code (coming soon)
+│   └── 04_hardware/          # code that ran on final hardware 
 └── test/
     └── motor_test.py         # checks both motors before running the robot
 ```
