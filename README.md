@@ -213,7 +213,7 @@ vision-pursuit-rover/
 
 ## Team
 
-Built by Shreya, Soham and Pranjal.
+Built by Shreya , Soham and Pranjal.
 
 ## Acknowledgements
 
