@@ -221,7 +221,7 @@ This project is built on the **TortoiseBot** by **[RigBetel Labs](https://rigbet
 
 - **The platform:** the kit, chassis design and electronics layout.
 - **The assembly guide:** we built the rover by following their [Hardware Assembly guide](https://github.com/rigbetellabs/tortoisebot/wiki/2.-Hardware-Assembly).
-- **The software stack:** the bring-up package that starts the lidar and drive system, and the lidar driver, come from their [TortoiseBot repository](https://github.com/rigbetellabs/tortoisebot). We did not write them.
+- **The software stack:** the bring-up package that starts the lidar and drive system, and the lidar driver, come from their [TortoiseBot repository](https://github.com/rigbetellabs/tortoisebot).
 - **The documentation and community:** their wiki and community made setup and debugging much easier.
 
 The control, perception and decision-making code in this repository is our own work. We also learned from the tutorials listed in [docs/setup.md](docs/setup.md#8-resources).
